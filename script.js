@@ -15,10 +15,18 @@ function audioPlayer() {
     padding: 0px 30px 0px 50px;
   }
   
+  p{
+    color:rgb(255,255,255);
+    background:#00000011;
+    
+    
+  }
+  
   `;
 let header = document.getElementById('header');
 header.innerHTML = `
 <h1>RadioApp</h1>
+<p>Внимание! Это приложение еще в стадии разроботки</p>
 `;
 let section = document.getElementById('section');
 section.innerHTML = `
