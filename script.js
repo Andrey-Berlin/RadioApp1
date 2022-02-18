@@ -17,7 +17,7 @@ function audioPlayer() {
   
   p{
     color:rgb(255,255,255);
-    background:#00000011;
+    background:#000000;
     
     
   }
@@ -26,7 +26,7 @@ function audioPlayer() {
 let header = document.getElementById('header');
 header.innerHTML = `
 <h1>RadioApp</h1>
-<p>Внимание! Это приложение еще в стадии разроботки</p>
+<p>Внимание! Это приложение еще в стадии разроботки.</p>
 `;
 let section = document.getElementById('section');
 section.innerHTML = `
