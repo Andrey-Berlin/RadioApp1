@@ -41,7 +41,7 @@ section.innerHTML = `
 <br>
 <audio controls id = "audio2"></audio></li>
 <hr />
-<li> Радио Свобола/ Общественное Европейское радио.
+<li> Радио Свобода/ Общественное Европейское радио.
 <br>
 <audio controls id = "audio3"></audio></li>
 <hr />
