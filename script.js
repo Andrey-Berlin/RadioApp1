@@ -65,7 +65,7 @@ source1.src = links[0];
 let source2 = document.getElementById('source2');
 source2.src = links[1];
 let source3 = document.getElementById('source3');
-source2.src = links[2];
+source3.src = links[2];
 }
 
 audioPlayer();
