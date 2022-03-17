@@ -30,7 +30,7 @@ section.innerHTML = `
 
 <audio controls id="audio" ">
 
-<source src="" type="audio/mp3">
+<source src="https://kanliveicy.media.kan.org.il/icy/kanreka_mp3" type="audio/mp3">
 
 </audio>
 
