@@ -2,7 +2,7 @@
 
 
 
-function audioPlayer() {
+
   
   let style = document.getElementById('style');
   style.innerHTML = `
@@ -66,6 +66,3 @@ let source2 = document.getElementById('source2');
 source2.src = links[1];
 let source3 = document.getElementById('source3');
 source3.src = links[2];
-}
-
-audioPlayer();
