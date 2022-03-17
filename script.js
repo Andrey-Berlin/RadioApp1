@@ -1,9 +1,3 @@
-// 
-
-
-
-
-
 let style = document.getElementById('style');
 style.innerHTML = `
   audio{
@@ -129,7 +123,7 @@ let audio2 = document.getElementById('audio2');
 audio2.innerHTML = `<source id = "source2" type="audio/mpeg">`;
 let audio3 = document.getElementById('audio3');
 audio3.innerHTML = `<source id = "source3" type="audio/mpeg">`;
-/*audio.style.fontSize = '50px';*/
+audio.style.fontSize = '50px';*/
 
 /*let links = ['https://kanliveicy.media.kan.org.il/icy/kanreka_mp3','https://emgregion.hostingradio.ru:8064/moscow.europaplus.mp3','https://n0d.radiojar.com/hcrb063nn3quv?rj-ttl=5&rj-tok=AAABf0cR0TcAuolkyeDIQy7HGg'];
 
