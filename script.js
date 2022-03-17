@@ -56,7 +56,7 @@ section.innerHTML = `
 <a href="https://n0d.radiojar.com/hcrb063nn3quv?rj-ttl=5&rj-tok=AAABf0cR0TcAuolkyeDIQy7HGg">
 Радио Свобода
 </a>
-
+</li>
 <hr />
 
 <li>
