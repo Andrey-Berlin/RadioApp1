@@ -59,7 +59,7 @@ section.innerHTML = `
 
 <hr />
 
-<!--li>
+<li>
 <a href="https://pub0302.101.ru:8443/stream/air/aac/64/100">
 Авторадио  
 </a>
@@ -69,7 +69,7 @@ section.innerHTML = `
 <a href="https://nashe1.hostingradio.ru/nashe-256">
 Наше Радио  
 </a>
-</li-->
+</li>
 
 </ul>
 </div>`;
