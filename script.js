@@ -28,7 +28,7 @@ section.innerHTML = `
 
 
 
-<audio controls id="audio" ">
+<audio controls id="audio">
 
 <source src="https://kanliveicy.media.kan.org.il/icy/kanreka_mp3" type="audio/mp3">
 
