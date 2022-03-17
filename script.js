@@ -71,11 +71,11 @@ section.innerHTML = `
 </a>
 </li>
 
-<li>
+<!--li>
 <a href="https://nashe1.hostingradio.ru/nashe-256">
 Наше Радио  
 </a>
-</li>
+</li-->
 
 </ul>
 </div>`;
